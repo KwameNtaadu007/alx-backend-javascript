@@ -1,0 +1,20 @@
+{
+  "name": "0x06-unittests_in_js",
+  "version": "1.0.0",
+  "description": "## Learning Objectives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Emmanuel Ntaadu Gyamfi",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  },
+  "dependencies": {
+    "chai-http": "^4.4.0",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
